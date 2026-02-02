@@ -54,7 +54,7 @@ Welcome to my 100-day journey! This repository is dedicated to tracking my progr
 | 30 | Hierarchical & DBSCAN Clustering | [Open in Colab](https://colab.research.google.com/) | 📝 |
 | 31 | Principal Component Analysis (PCA) | [Open in Colab](https://colab.research.google.com/) | 📝 |
 | 32 | t-SNE for Visualization | [Open in Colab](https://colab.research.google.com/) | 📝 |
-| 33 | Association Rule Learning | [Open in Colab](https://colab.research.google.com/) | 📝 |
+| 33 | Principal Component Analysis (PCA) | [Open in Colab](https://colab.research.google.com/github/tharunramavath/100-Days-Of-Data-Science-And-AI/blob/main/Day%20wise%20Content/Day%2033/Day_33_PCA_100_DAYS_DS_AI.ipynb) | ✅ |
 | 34 | Anomaly Detection | [Open in Colab](https://colab.research.google.com/) | 📝 |
 | 35 | Project: Customer Segmentation | [Open in Colab](https://colab.research.google.com/) | 📝 |
 | **Week 6: Deep Learning Foundations** | | | |
