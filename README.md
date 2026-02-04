@@ -56,7 +56,7 @@ Welcome to my 100-day journey! This repository is dedicated to tracking my progr
 | 32 | t-SNE for Visualization | [Open in Colab](https://colab.research.google.com/) | 📝 |
 | 33 | Principal Component Analysis (PCA) | [Open in Colab](https://colab.research.google.com/github/tharunramavath/100-Days-Of-Data-Science-And-AI/blob/main/Day%20wise%20Content/Day%2033/Day_33_PCA_100_DAYS_DS_AI.ipynb) | ✅ |
 | 34 | Anomaly Detection | [Open in Colab](https://colab.research.google.com/) | 📝 |
-| 35 | Project: Customer Segmentation | [Open in Colab](https://colab.research.google.com/) | 📝 |
+| 35 | Latent Semantic Analysis (LSA) | [Open in Colab](https://colab.research.google.com/github/tharunramavath/100-Days-Of-Data-Science-And-AI/blob/main/Day%20wise%20Content/Day%2035/Day_35_LSA_100_DAYS_DS_AI.ipynb) | ✅ |
 | **Week 6: Deep Learning Foundations** | | | |
 | 36 | Introduction to Neural Networks | [Open in Colab](https://colab.research.google.com/) | 📝 |
 | 37 | Activation Functions & Loss Functions | [Open in Colab](https://colab.research.google.com/) | 📝 |
